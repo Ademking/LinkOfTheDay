@@ -2,7 +2,7 @@
 
 🌍 Day 001 : [Customisable WPF MessageBox for PowerShell](https://smsagent.blog/2017/08/24/a-customisable-wpf-messagebox-for-powershell/)
 
-🌍 Day 002 : 
+🌍 Day 002 : [Flutter Full Course](https://www.linkedin.com/learning/learning-google-flutter-for-mobile-developers/build-ios-and-android-apps-easily)
 
 🌍 Day 003 : 
 
