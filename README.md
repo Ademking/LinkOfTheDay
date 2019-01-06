@@ -1,4 +1,4 @@
-# LinkOfTheDay
+# Link Of The Day
 
 🌍 Day 001 : [Customisable WPF MessageBox for PowerShell](https://smsagent.blog/2017/08/24/a-customisable-wpf-messagebox-for-powershell/)
 
