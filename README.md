@@ -8,7 +8,7 @@
 
 🌍 Day 004 : [Coding - All Cheat Sheets](http://overapi.com)
 
-🌍 Day 005 : 
+🌍 Day 005 : [30 seconds of code](https://30secondsofcode.org/)
 
 🌍 Day 006 : 
 
