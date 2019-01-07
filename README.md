@@ -10,7 +10,7 @@
 
 🌍 Day 005 : [30 seconds of code](https://30secondsofcode.org/)
 
-🌍 Day 006 : 
+🌍 Day 006 : [Instagram Node API - Direct Message](https://www.npmjs.com/package/instagram-private-api)
 
 🌍 Day 007 : 
 
