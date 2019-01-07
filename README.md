@@ -1,7 +1,5 @@
 # Link Of The Day
 
-------
-
 Every day in 2019, I will add a new link...
 
 🌍 Day 001 : [Customisable WPF MessageBox for PowerShell](https://smsagent.blog/2017/08/24/a-customisable-wpf-messagebox-for-powershell/)
