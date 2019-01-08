@@ -14,7 +14,7 @@ Every day in 2019, I will add a new link...
 
 🌍 Day 006 : [Instagram Node API - Direct Message](https://www.npmjs.com/package/instagram-private-api)
 
-🌍 Day 007 : 
+🌍 Day 007 : [List of Free Public APIs](https://public-apis.xyz/) - [Github Repo](https://github.com/toddmotto/public-apis)
 
 🌍 Day 008 : 
 
