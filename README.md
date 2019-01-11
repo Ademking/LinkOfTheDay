@@ -16,13 +16,13 @@ Every day in 2019, I will add a new link...
 
 🌍 Day 007 : [List of Free Public APIs](https://public-apis.xyz/) - [Github Repo](https://github.com/toddmotto/public-apis)
 
-🌍 Day 008 : 
+🌍 Day 008 : [React UI components - Lightningdesignsystem](https://www.lightningdesignsystem.com/)
 
-🌍 Day 009 : 
+🌍 Day 009 : [GitHub API - Useful for projects](https://developer.github.com/v3/repos/#list-your-repositories)
 
-🌍 Day 010 : 
+🌍 Day 010 : [Tone.js - framework for creating interactive music](https://tonejs.github.io/)
 
-🌍 Day 011 : 
+🌍 Day 011 : [List of useful themes / components for React](https://news.ycombinator.com/item?id=18234867)
 
 🌍 Day 012 : 
 
