@@ -24,9 +24,9 @@ Every day in 2019, I will add a new link...
 
 🌍 Day 011 : [List of useful themes / components for React](https://news.ycombinator.com/item?id=18234867)
 
-🌍 Day 012 : 
+🌍 Day 012 : [Free push notifications - web & mobile](https://www.truepush.com)
 
-🌍 Day 013 : 
+🌍 Day 013 : [All in One Bookmark Links for Designer](https://www.evernote.design)
 
 🌍 Day 014 : 
 
