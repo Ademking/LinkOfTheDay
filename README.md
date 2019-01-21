@@ -32,7 +32,7 @@ Every day in 2019, I will add a new link...
 
 🌍 Day 015 : [Front End HandBook - 2018](https://frontendmasters.com/books/front-end-handbook/2018/)
 
-🌍 Day 016 : 
+🌍 Day 016 : [React Boilerplate - For big projects](https://www.reactboilerplate.com/)
 
 🌍 Day 017 : 
 
